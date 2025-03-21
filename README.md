@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [Vagrant](https://github.com/andavno/vagrant)
 
-- 🌱 I’m currently learning **Ansible, Grafana**
+- 🌱 I’m currently learning **Kubernetes**
 
-- 💬 Ask me about **AWS, Java, Python**
+- 💬 Ask me about **AWS, Terraform, Ansible, Grafana, Python**
 
 - 📫 How to reach me **andre_nogueira06@hotmail.com**
 
